@@ -3,7 +3,8 @@
 <img src="https://github.com/churchofscyence/resources/blob/main/banners/banner-charles-darwin.png" alt="Church of Scyence Banner">
 
 # Church Website
-[Church of Scyence](https://churchofscyence.github.io/getting-started/)
+[Church of Scyence](https://churchofscyence.github.io/getting-started/)          
+[Angular Tutorial](https://churchofscyence.github.io/tutorial-angular/)         
 
 # Developers Notes
 
