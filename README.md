@@ -4,7 +4,12 @@
 
 # Church Website
 [Church of Scyence](https://churchofscyence.github.io/getting-started/)          
-[Angular Tutorial](https://churchofscyence.github.io/tutorial-angular/)         
+[Angular Tutorial](https://churchofscyence.github.io/tutorial-angular/) 
+
+# GitHub   
+% git config --list  
+% git config --global user.name "Johnny Cowboy"   
+% git config --global user.email "johnnycowboy3033@gmail.com"   
 
 # Developers Notes
 
